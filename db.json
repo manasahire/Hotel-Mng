@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "divine hotel 1",
+      "address": "beside manas auto, near railway station dhule  ",
+      "email": "divine@gmail.com",
+      "services": "jain food ,italian,thai food,",
+      "mobile": 25622569872
+    },
+    {
+      "id": "2",
+      "name": "topline",
+      "address": "near toll gate dhule , mumbai pune express way , Lavasa",
+      "email": "selection@abc.com",
+      "services": "indian , maharashtrian , chinese , italian ",
+      "mobile": 256987456325
+    },
+    {
+      "id": "3",
+      "name": "nadh bharama idli",
+      "address": "karve nagar , vishrantwadi , airport road , pune station",
+      "email": "nadhbhrama@hmail.com",
+      "services": "south indian , idli , dosa ",
+      "mobile": 78941252511
+    }
+  ],
+  "signup": [
+    {
+      "name": "arayan hotel 1",
+      "email": "sibashish@abc.com",
+      "mobile": 8769145511,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "id": "f0fa",
+      "name": "manas ahire",
+      "email": "manas.ahire@gmail.com",
+      "mobile": 8275440734,
+      "password": "manas11"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
